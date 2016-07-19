@@ -26,7 +26,7 @@ to change the default price, which is 1000 Satoshis per request.
 
 ```
 $ 21 join 21market
-$ python3 bitroute-server.py &
+$ python3 bitroute-server.py
 ```
 
 ### Step 4
