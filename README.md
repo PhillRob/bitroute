@@ -10,12 +10,13 @@ $ 21 --version
 ```
 
 ### Step 2
-Clone the Bitroute repository.
+Clone the Bitroute repository and make sure you have got traceroute installed. 
 
 ```
 $ git clone https://github.com/21dotco/bitroute.git
 $ cd bitroute
 $ sudo pip3 install -r requirements.txt
+$ sudo apt-get install traceroute
 ```
 
 ### Step 3
